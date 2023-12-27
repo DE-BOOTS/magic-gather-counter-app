@@ -39,7 +39,7 @@
   }
 </script>
 
-<header>MTG Counter App</header>
+<header>MTG Counter Game App</header>
 <main>
   <Team
     increaseHandler={redHandler}
